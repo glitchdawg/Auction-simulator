@@ -12,7 +12,7 @@ cmd/simulator/simulator
 
 # Output
 *.out
-output/*.json
+#output/*.json
 
 # Go workspace file
 go.work
